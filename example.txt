@@ -1,1 +1,1 @@
-example codnfict
+echo "Checking example"
