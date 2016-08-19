@@ -15,7 +15,12 @@ public class TheMotivator {
 																												}
 																												}
 
-
+final change
 second edit
+<<<<<<< HEAD
 
 fourth edit
+
+=======
+third edit
+>>>>>>> con_branch
