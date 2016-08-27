@@ -1,5 +1,0 @@
-bvhdbjhdbshzdbvh:wq<<<<<<< HEAD
-echo "Checking example"
-=======
-echo "Hello"
->>>>>>> ex_branch
