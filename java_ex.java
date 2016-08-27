@@ -1,4 +1,5 @@
-public class TheMotivator {
+public clas
+s TheMotivator {
 	public void feedback(int score) {
 			if (score == 100)
 						System.out.println("You're awesome");
@@ -23,4 +24,5 @@ fourth edit
 
 =======
 third edit
+
 >>>>>>> con_branch
